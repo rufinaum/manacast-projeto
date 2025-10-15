@@ -6,7 +6,6 @@ Este repositório contém os arquivos do **ManaCast**, um podcast semanal com du
 ## Arquivos incluídos
 - `podcastatividade.mp3`: Áudio editado do primeiro episódio do podcast  
 - `prompts.txt`: Lista dos comandos e ideias utilizadas para criar o episódio com auxílio de IA  
-- `roteiro-episodio1.txt`: Roteiro completo do episódio 1, incluindo introdução, conteúdo, curiosidades e encerramento
 
 ## Como foi feito
 O episódio foi criado com apoio de ferramentas de inteligência artificial para:
