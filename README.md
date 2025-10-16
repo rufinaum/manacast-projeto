@@ -1,4 +1,4 @@
-# 🧙‍♂️ ManaCast – Projeto de Podcast Nerd 🧙‍♂️
+# 🧙‍♂️ManaCast – Projeto de Podcast Nerd🧙‍♂️
  
 ## Sobre o projeto
 Este repositório contém os arquivos do **ManaCast**, um podcast semanal com duração de 5 a 7 minutos que mistura magia, memes e mistério. O conteúdo aborda temas do universo nerd como jogos, filmes, séries, RPGs e tecnologia, sempre com uma linguagem acessível e divertida.
